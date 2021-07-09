@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142440310293",
+    "project_id": "tsf-social-media-integra-16ab5",
+    "storage_bucket": "tsf-social-media-integra-16ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142440310293:android:674e319e4ae164af56901c",
+        "android_client_info": {
+          "package_name": "com.example.tsfsocialmediaintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142440310293-dtf171b0deessvafdicntaljmpj61bqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL1tE4Ypg49zVEy68Z2XFbOGDmRGoA6yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142440310293-dtf171b0deessvafdicntaljmpj61bqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
